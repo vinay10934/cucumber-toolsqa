@@ -28,6 +28,7 @@ public class CheckoutPageSteps {
 		Thread.sleep(2000);
 		checkoutPage.clickOn_PlaceOrder();
 		Thread.sleep(7000);
+		System.out.println("GITHUB");
 	
 	}
 
