@@ -22,5 +22,6 @@ public class CartPageSteps {
 		Thread.sleep(3000);
 		cartPage.ClickOn_Cart();
 		cartPage.Clickon_checkout();
+		System.out.println("GITHUBCART");
 }
 }
