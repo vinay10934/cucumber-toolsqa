@@ -20,7 +20,7 @@ public class CheckoutPageSteps {
 		
 		checkoutPage.fill_PersonalDetails();
 		Thread.sleep(2000);
-		System.out.println("vinay kumar");
+		System.out.println("vinay kumar Barnwal");
 	}
 
 	@When("^place the order$")
