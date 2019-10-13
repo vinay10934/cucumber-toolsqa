@@ -27,6 +27,7 @@ public void ClickOn_Cart()
 public void Clickon_checkout()
 {
 	Checkout_Button.click();
+	
 }
 
 }
